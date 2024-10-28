@@ -5,10 +5,9 @@
 - 📫 How to reach me: 
   - Email: mukarram.nawaz17@gmail.com
   - LinkedIn: [MukarramNawaz](https://www.linkedin.com/in/mukarram-nawaz)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you can find me gaming or working on my jewelry brand, Rustam.
 
-Feel free to check out my [portfolio](https://rustamstore.vercel.app) and let's build something amazing together!
+Feel free to check out my [portfolio](https://mukarram-portfolio.vercel.app/) and let's build something amazing together!
 
 
 <!---
