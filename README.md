@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Mukarram Nawaz! 
-- 👀 I’m interested in web development, gaming, and MERN stack projects.
-- 🌱 I’m currently learning advanced full-stack development with MERN.
+- 👀 I’m interested in Web Development and MERN stack projects.
+- 🌱 Currently advancing my expertise in full-stack development with the MERN stack, focusing on creating scalable and efficient web applications.
 - 💞️ I’m looking to collaborate on exciting web development projects, especially MERN stack and eCommerce solutions.
 - 📫 How to reach me: 
   - Email: mukarram.nawaz17@gmail.com
