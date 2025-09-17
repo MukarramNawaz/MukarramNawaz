@@ -68,10 +68,10 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukarramNawaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&token=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" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukarramNawaz&theme=radical&hide_border=false&cache_seconds=86400&token=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" height="160px"/>
+  <img src="https://github-readme-stats-five-sable-69.vercel.app/api?username=MukarramNawaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats-five-sable-69.vercel.app/api/streak-stats?username=MukarramNawaz&theme=radical&hide_border=false" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukarramNawaz&theme=radical&hide_border=false&layout=compact&cache_seconds=86400&token=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" height="160px"/>
+  <img src="https://github-readme-stats-five-sable-69.vercel.app/api/top-langs/?username=MukarramNawaz&theme=radical&hide_border=false&layout=compact" height="160px"/>
 </p>
