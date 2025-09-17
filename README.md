@@ -69,7 +69,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats-five-sable-69.vercel.app/api?username=MukarramNawaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats-five-sable-69.vercel.app/api/streak-stats?username=MukarramNawaz&theme=radical&hide_border=false" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MukarramNawaz&theme=radical&hide_border=false" height="160px"/>
 </p>
 
 <p align="center">
